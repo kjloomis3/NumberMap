@@ -3,7 +3,7 @@ package numberMap;
 /**
  * An exception representing an error that may occur when accessing a number
  * of the NumberMap object by providing invalid coordinates.
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis3)
  */
 public class InvalidNumberMapCoordinateException extends Exception 
 {

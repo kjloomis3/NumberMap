@@ -7,7 +7,7 @@ import java.util.Random;
  * A representation of a two-dimensional array of random integers. Here the
  * 2-d array is a square array (the number of rows is the same as the number 
  * of columns).
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis3)
  */
 public class NumberMap 
 {

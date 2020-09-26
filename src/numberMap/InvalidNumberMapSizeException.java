@@ -3,7 +3,7 @@ package numberMap;
 /**
  * An exception representing a size error that may occur when creating a
  * NumberMap object.
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis3)
  */
 public class InvalidNumberMapSizeException extends Exception {
 	

@@ -9,7 +9,7 @@ import numberMap.InvalidNumberMapSizeException;
 /**
  * Creates a graphic representation of a NumberMap to be displayed in a window. The size of the
  * NumberMap depends upon user input. Requires the use of the the JavaX Swing library. 
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis3)
  */
 public class NumberMapGUI {
 

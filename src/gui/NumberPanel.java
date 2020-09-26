@@ -15,7 +15,7 @@ import numberMap.NumberMap;
  * 2-d array is a square array (the number of rows is the same as the number 
  * of columns). The representation also highlights the minimum and maximum
  * numbers and displays the sums of each row and column.
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis3)
  *
  */
 public class NumberPanel extends JPanel
